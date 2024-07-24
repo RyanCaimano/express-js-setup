@@ -1,0 +1,24 @@
+{
+  "name": "express-js-setup",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanCaimano/express-js-setup.git"
+  },
+  "author": "Ryan Caimano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyanCaimano/express-js-setup/issues"
+  },
+  "homepage": "https://github.com/RyanCaimano/express-js-setup#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.5.1"
+  }
+}
